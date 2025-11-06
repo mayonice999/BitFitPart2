@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BitFitPart2</string>
+    <string name="enter_amount_ml">Enter water (mL)</string>
+    <string name="add">Add</string>
+    <string name="total_liters">Total (L): %1$.2f</string>
+    <string name="avg_liters">Average (L): %1$.2f</string>
+    <string name="no_entries">No entries yet</string>
+</resources>
